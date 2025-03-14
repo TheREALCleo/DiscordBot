@@ -1,63 +1,68 @@
-Unsilenced 🌸✨ – Your Ultimate Anime Companion Bot
-Konnichiwa~! 🌸 Unsilenced is a super kawaii Discord bot that helps you discover anime, chat with AI, and have fun! 🎀 Whether you need anime recommendations, want to identify an anime from an image, or just feel like rolling some dice, Unsilenced is here for you! 🐾
+# Kawaii Discord Bot
 
-🌟 Features
-🎀 Anime & Manga Search – Find details from AniList 📖
-🌸 Anime Image Search – Identify anime from images via SauceNAO 📷
-✨ Anime Recommendations – Uses Machine Learning to suggest anime 🧠
-💬 Conversational AI – Chat with a Locally Hosted LLM 🤖
-😂 Fun Commands – Tell jokes, roll dice, and quote messages 🎲
-💖 Wholesome Greetings – Type "kawaii" to get a warm welcome! 🌈
-🚀 Custom Help & Error Handling – Super user-friendly! 🐰
+## Overview
+Kawaii is a feature-rich Discord bot designed to enhance user interaction by providing anime recommendations using machine learning, general chat capabilities with a locally hosted LLM, and various fun commands. It supports anime/manga search using AniList, image-based anime search using SauceNAO, joke-telling, dice rolling, and more.
 
-🎀 Getting Started
-1️⃣ Prerequisites 🛠️
+## Features
+- **Anime & Manga Search**: Fetch details about anime and manga from AniList.
+- **Anime Recommendation**: Uses machine learning to suggest anime based on user preferences.
+- **Image Search**: Identify anime using an image through SauceNAO.
+- **Chatbot**: Engage in general conversations with a locally hosted LLM.
+- **Fun Commands**: Tell jokes, roll dice, and quote messages.
+- **Admin Commands**: Close the bot with administrator privileges.
+
+## Installation
+### Prerequisites
 Ensure you have the following installed:
+- Python 3.x
+- Required dependencies
 
-Python (≥3.8) 🐍
-discord.py (for bot interactions) 🤖
-python-dotenv (for environment variables) 🔒
-requests, beautifulsoup4, urllib3 (for web scraping) 🔍
-2️⃣ Clone the Repository 💻
-sh
-Copy
-Edit
-git clone https://github.com/YourUsername/Unsilenced.git
-cd Unsilenced
-3️⃣ Install Dependencies 📦
-sh
-Copy
-Edit
+### Clone the Repository
+```sh
+git clone https://github.com/TheREALCleo/DiscordBot.git
+cd DiscordBot
+```
+
+### Install Dependencies
+```sh
 pip install -r requirements.txt
-4️⃣ Set Up Your Token 🔑
-Create a .env file in the project folder and add your Discord Bot Token:
+```
 
-ini
-Copy
-Edit
-DISCORD_TOKEN=your_discord_bot_token_here
-5️⃣ Run the Bot 🚀
-sh
-Copy
-Edit
+### Environment Setup
+Create a `.env` file in the root directory and add your Discord bot token:
+```
+DISCORD_TOKEN=your_bot_token_here
+```
+
+## Running the Bot
+To start the bot, run:
+```sh
 python main.py
-🎀 Commands List
-Command	Description
-🌸 !help	Shows available commands
-📖 !anime <name>	Search for an anime on AniList
-📖 !manga <name>	Search for a manga on AniList
-💖 !genre <name>	Find anime by genre
-🖼️ !image <attachment>	Identify anime from an image (SauceNAO)
-😂 !funny	Get a random joke!
-🎲 !rolldie <n>	Roll an n-sided die 🎲
-📝 !quote	Quote a replied-to message
-✅ !isWorking	Check if the bot is online
-🔒 !close (Admin)	Shut down the bot
-🛠️ Tech Stack
-🐍 Discord.py – Handles all Discord bot interactions
-📖 AniList API – Fetches anime & manga details
-🔍 SauceNAO API – Finds anime from images
-🧠 Machine Learning – Provides anime recommendations
-🤖 Locally Hosted LLM – AI-powered chat companion
+```
 
-🎀 "A world of anime fun, right in your Discord server!" 🌸💖
+## Commands
+| Command | Description |
+|---------|-------------|
+| `!help` | Displays available commands |
+| `!isWorking` | Checks if the bot is online |
+| `!anime <name>` | Searches for anime details |
+| `!manga <name>` | Searches for manga details |
+| `!genre <genre>` | Lists anime from a specific genre |
+| `!image` | Identifies anime from an uploaded image |
+| `!funny` | Tells a joke |
+| `!rolldie [number]` | Rolls a die with the specified number of sides (default: 1) |
+| `!quote` | Quotes a replied-to message |
+| `!close` | Shuts down the bot (Admin only) |
+
+## Error Handling
+- **Unknown Command**: Displays an error message if the command is not recognized.
+- **Missing Role**: Informs the user if they lack the required role.
+- **Command Cooldown**: Prevents spamming by enforcing cooldowns.
+
+## Dependencies
+- **Core**: `discord.py`, `python-dotenv`
+- **Web Scraping**: `requests`, `beautifulsoup4`, `urllib3`
+
+## Contact
+For any issues or suggestions, please open an issue in the repository.
+
