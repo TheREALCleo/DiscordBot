@@ -1,0 +1,8 @@
+# Core dependencies
+discord.py
+python-dotenv  # For environment variable management
+
+# Web Scraping
+requests  # For HTTP requests
+beautifulsoup4  # For parsing HTML
+urllib3  # To manage HTTP connections

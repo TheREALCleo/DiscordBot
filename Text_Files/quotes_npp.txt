@@ -1,0 +1,276 @@
+Notepad++                    :  The creation of Notepad++ is due to my need for a decent editor to edit the source code of Notepad++.
+Notepad++ #1                 :  I hate reading other people's code.@So I wrote mine, made it as open source project, and watch others suffer.
+Notepad++ #2                 :  Good programmers use Notepad++ to code.@Extreme programmers use MS Word to code, in Comic Sans, center aligned.
+Richard Stallman             :  If I'm the Father of Open Source, it was conceived through artificial insemination using stolen sperm without my knowledge or consent.
+Notepad++ #3                 :  The best things in life are free.@Notepad++ is free.@So Notepad++ is the best.
+L. Peter Deutsch             :  To iterate is human, to recurse divine.
+Martin Golding               :  Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+Brian Kernighan              :  Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+Seymour Cray                 :  The trouble with programmers is that you can never tell what a programmer is doing until it's too late.
+Bill Gates                   :  Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+Alan Kay                     :  Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
+Vidiu Platon                 :  I don't care if it works on your machine! We are not shipping your machine!
+Christopher Thompson         :  Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.
+pixadel                      :  Fine, Java MIGHT be a good example of what a programming language should be like.@But Java applications are good examples of what applications SHOULDN'T be like.
+Edward V Berard              :  Walking on water and developing software from a specification are easy if both are frozen.
+Bjarne Stroustrup            :  In C++ it's harder to shoot yourself in the foot, but when you do, you blow off your whole leg.
+Oktal                        :  I think Microsoft named .Net so it wouldn't show up in a Unix directory listing.
+Bob Gray                     :  Writing in C or C++ is like running a chain saw with all the safety guards removed.
+Gavin Russell Baker          :  C++ : Where friends have access to your private members.
+Roberto Waltman              :  In the one and only true way. The object-oriented version of "Spaghetti code" is, of course, "Lasagna code". (Too many layers)
+Cult of vi                   :  Emacs is a great operating system, lacking only a decent editor.
+Linus Torvalds               :  Software is like sex: It's better when it's free.
+Steve Jobs                   :  Picasso had a saying: "Good artists copy, great artists steal.".@We have always been shameless about stealing great ideas.
+Church of Emacs              :  vi has two modes - "beep repeatedly" and "break everything".
+Robin Williams               :  God gave men both a penis and a brain, but unfortunately not enough blood supply to run both at the same time.
+brotips #1001                :  Do everything for greatness, not money. Money follows greatness.
+Darth Vader #2               :  You don't get to 500 million star systems without making a few enemies.
+Darth Vader                  :  Strong people don't put others down.@They lift them up.
+Jean-Claude van Damme        :  A cookie has no soul, it's just a cookie. But before it was milk and eggs.@And in eggs there's the potential for life.
+Doug Linder                  :  A good programmer is someone who always looks both ways before crossing a one-way street.
+Michael Feldman              :  Java is, in many ways, C++--.
+Mark Zuckerberg              :  "Black lives matter" doesn't mean other lives don't - it's simply asking that the black community also achieves the justice they deserve.
+Don Ho                       :  Je mange donc je chie.
+Don Ho #2                    :  RTFM is the true path of every developer.@But it would happen only if there's no way out.
+Don Ho #3                    :  The smartphone is the best invention of the 21st century for avoiding eye contact with people you know while crossing the street.
+Don Ho #4                    :  Poor countries' museums vs. rich countries' museums:@The first show what they have left.@The second show what they have stolen.
+Don Ho #5                    :  With great refactoring comes great regressions.
+A developer                  :  No hugs & kisses.@Only bugs & fixes.
+OOP                          :  If you want to treat women as objects,@do it with class.
+Elon Musk                    :  Don't set your password as your child's name.@Name your child after your password.
+Mary Oliver                  :  Someone I loved once gave me a box full of darkness.@It took me years to understand that this, too, was a gift.
+Internet#404                 :  Quote not Found
+Simon Amstell                :  If you have some problem in your life and need to deal with it, then use religion, that's fine.@I use Google.
+Floor                        :  If you fall, I will be there.
+Terry Pratchett              :  Artificial Intelligence is no match for natural stupidity.
+Albert Einstein              :  Only 3 things are infinite:@1. Universe.@2. Human Stupidity.@3. Winrar's free trial.
+Sam Redwine                  :  Software and cathedrals are much the same - first we build them, then we pray.
+Stewart Brand                :  Once a new technology starts rolling, if you're not part of the steamroller,@you're part of the road.
+Jessica Gaston               :  One man's crappy software is another man's full time job.
+Jan L. A. van de Snepscheut  :  In theory, there is no difference between theory and practice. But, in practice, there is.
+Barack Obama                 :  Yes, we scan!
+xkcd.com                     :  int getRandomNumber()@{@    return 4; //chosen by fair dice roll, guaranteed to be random.@}
+Raymond Devos                :  Mon pied droit est jaloux de mon pied gauche. Quand l'un avance, l'autre veut le dépasser.@Et moi, comme un imbécile, je marche !
+R. D. Laing                  :  Life is a sexually transmitted disease and the mortality rate is one hundred percent.
+Gandhi                       :  Earth provides enough to satisfy every man's need, but not every man's greed.
+Mark Twain                   :  Censorship is telling a man he can't have a steak just because a baby can't chew it.
+Hustle Man                   :  Politicians are like sperm.@One in a million turn out to be an actual human being.
+Dhalsim                      :  Pain is a state of mind and I don't mind your pain.
+Friedrich Nietzsche          :  There is not enough love and goodness in the world to permit giving any of it away to imaginary beings.
+Dennis Ritchie               :  Empty your memory, with a free(), like a pointer.@If you cast a pointer to a integer, it becomes the integer.@If you cast a pointer to a struct, it becomes the struct.@The pointer can crash, and can overflow.@Be a pointer my friend.
+Elie Wiesel                  :  Human beings can be beautiful or more beautiful,@they can be fat or skinny, they can be right or wrong,@but illegal? How can a human being be illegal?
+Alexandria Ocasio-Cortez     :  No one ever makes a billion dollars.@You TAKE a billion dollars.
+Chewbacca                    :  Uuuuuuuuuur Ahhhhrrrrrr@Uhrrrr Ahhhhrrrrrr@Aaaarhg...
+Word of the Day              :  DEBUGGING@/di:'bʌɡɪŋ/ noun@The classic mystery game where you are the detective, the victim and the murderer.
+Freddy Krueger               :  Never stop dreaming.
+Kahlil Gibran                :  Your children are not your children.@They are the sons and daughters of Life's longing for itself.@They come through you but not from you,@And though they are with you, yet they belong not to you.@You may give them your love but not your thoughts,@For they have their own thoughts.@You may house their bodies but not their souls,@For their souls dwell in the house of tomorrow,@which you cannot visit, not even in your dreams.@You may strive to be like them, but seek not to make them like you.@For life goes not backward nor tarries with yesterday.@You are the bows from which your children as living arrows are sent forth.@The archer sees the mark upon the path of the infinite,@and He bends you with His might that His arrows may go swift and far.@Let your bending in the archer's hand be for gladness;@For even as He loves the arrow that flies, so He loves also the bow that is stable.
+Ricky Gervais                :  Feel free to mock my lack of belief in any Gods.@It won't hurt my feelings.@It won't damage my faith in reason.@And I won't kill you for it.
+Space Invaders               :         ,%^%^%,%@     ,%^%^%^%^%^%^%,%           ^%   ^%  ^%?%?%?%@     ^%^%,%^%^%,%^%^%           ^%   ^%  ^%,%,%@      ,%?%,%,%?%,%            ^% ^% ^%  ^%@     ?% ?%  ?% ?%           ?%?% ?%?%  ?%?%?%?%@      ?%,%   ,%?%           ,%^%?%?%?%  ,%^%?%?%^%,%  ^%?%,%?%^%  ^%?%?%?%@     ,%^%?%^%^%^%?%^%,%          ^%      ^%    ^%  ^% ?% ^%  ^%,%,%@    ^% ^%?%?%?%?%?%^% ^%         ^%,%     ^%,%  ,%^%  ^%   ^%  ^%@       ?%?% ?%?%             ?%?%?%?%   ?%?%?%?%   ?%   ?%  ?%?%?%?%@     ,%,%^%^%^%^%^%,%,%          ?%^%?%  ^%?%,%  ^%@    ^%^%?%?%^%^%^%?%?%^%^%          ^%   ^% ?%,% ^%@    ?%?%^%^%?%?%?%^%^%?%?%          ^%   ^%  ?%,%^%@    ,%^%?% ?%?%?% ?%^%,%         ?%?%?%  ?%   ?%?%@      ,%,%^%^%^%^%,%,%          ^%?%?%^%  ^%?%?%?%  ,%?%?%,%  ,%^%?%?%?%  ^%?%?%?%@    ,%^%^%^%^%^%^%^%^%^%^%,%        ^%,%,%^%  ^%,%,%   ^%,%,%^%  ^%      ^%,%,% @  ,%^%^%,%^%^%,%^%^%,%^%^%,%^%^%,%      ^%     ^%     ^%  ^%  ^%,%     ^%   @    ?%^%?%  ?%?%  ?%^%?%        ?%     ?%?%?%?%  ?%  ?%   ?%?%?%?%  ?%?%?%?%
+Francis Bacon                :  Knowledge is power. France is bacon.@When I was young my father said to me: "Knowledge is power, Francis Bacon." I understood it as "Knowledge is power, France is bacon."@For more than a decade I wondered over the meaning of the second part and what was the surreal linkage between the two. If I said the quote to someone, "Knowledge is power, France is Bacon", they nodded knowingly. Or someone might say, "Knowledge is power" and I'd finish the quote "France is Bacon" and they wouldn't look at me like I'd said something very odd, but thoughtfully agree. I did ask a teacher what did "Knowledge is power, France is bacon" mean and got a full 10-minute explanation of the "knowledge is power" bit but nothing on "France is bacon". When I prompted further explanation by saying "France is bacon?" in a questioning tone I just got a "yes". At 12 I didn't have the confidence to press it further. I just accepted it as something I'd never understand.@It wasn't until years later I saw it written down that the penny dropped.
+JeSuisCharlie                :  Freedom of expression is like the air we breathe, we don't feel it, until people take it away from us.@For this reason, Je suis Charlie, not because I endorse everything they published, but because I cherish the right to speak out freely without risk even when it offends others.@And no, you cannot just take someone's life for whatever he/she expressed.@Hence this "Je suis Charlie" edition.
+Anonymous #1                 :  An opinion without 3.14 is just an onion.
+Anonymous #2                 :  Before sex, you help each other get naked, after sex you only dress yourself.@Moral of the story: in life no one helps you once you're fucked.
+Anonymous #3                 :  I'm not totally useless. I can be used as a bad example.
+Anonymous #4                 :  Life is too short to remove USB safely.
+Anonymous #5                 :  "SEX" is not the answer.@Sex is the question, "YES" is the answer.
+Anonymous #6                 :  Going to McDonald's for a salad is like going to a whore for a hug.
+Anonymous #7                 :  I need a six month holiday, TWICE A YEAR!
+Anonymous #8                 :  Everything is a knife if you're strong enough.
+Anonymous #9                 :  I'M A FUCKING ANIMAL IN BED.@More specifically a koala.
+Anonymous #10                :  Roses are red,@Violets are red,@Tulips are red,@Bushes are red,@Trees are red,@HOLY SHIT MY@GARDEN'S ON FIRE!!
+Anonymous #11                :  We stopped checking for monsters under our bed, when we realized they were inside us.
+Anonymous #12                :  I would rather check my facebook than face my checkbook.
+Anonymous #13                :  Whoever says Paper beats Rock is an idiot. Next time I see someone say that I will throw a rock at them while they hold up a sheet of paper.
+Anonymous #14                :  A better world is where chickens can cross the road without having their motives questioned.
+Anonymous #15                :  If I didn't drink, how would my friends know I love them at 2 AM?
+Anonymous #16                :  Q: How do you generate a random string?@A: Put a Windows user in front of vi, and tell him to exit.
+Anonymous #17                :  Pros and cons of making food.@Pros: food@Cons : making
+Anonymous #18                :  Never get into fights with ugly people, they have nothing to lose.
+Anonymous #19                :  People who say they give 110%@don't really understand how percentages work.
+Anonymous #20                :  Never make eye contact while eating a banana.
+Anonymous #21                :  I love my sixpack so much, I protect it with a layer of fat.
+Anonymous #22                :  "It's impossible." said pride.@"It's risky." said experience.@"It's pointless." said reason.@"Give it a try." whispered the heart.@...@"What the hell was that?!?!?!?!?!" shouted the anus two minutes later.
+Anonymous #23                :  A programmer is told to "go to hell".@He finds the worst part of that statement is the "go to".
+Anonymous #24                :  An Architect's dream is an Engineer's nightmare.
+Anonymous #25                :  In a way, I feel sorry for the kids of this generation.@They'll have parents who know how to check browser history.
+Anonymous #26                :  I would never bungee jump.@I came into this world because of a broken rubber, and I'm not going out cause of one.
+Anonymous #27                :  I don't have a problem with caffeine.@I have a problem without caffeine.
+Anonymous #28                :  Why 6 afraid of 7?@Because 7 8 9 while 6 and 9 were flirting.
+Anonymous #29                :  How do you comfort a JavaScript bug?@You console it.
+Anonymous #30                :  Why do Java developers wear glasses?@Because they don't C#.
+Anonymous #31                :  A baby's laughter is one of the most beautiful sounds you will ever hear. Unless it's 3 AM. And you're home alone. And you don't have a baby.
+Anonymous #32                :  Two bytes meet. The first byte asks, "You look terrible. Are you OK?"@The second byte replies, "No, just feeling a bit off."
+Anonymous #33                :  Programmer - an organism that turns coffee into software.
+Anonymous #34                :  It's not a bug - it's an undocumented feature.
+Anonymous #35                :  Should an array index start at 0 or 1?@My compromised solution is 0.5
+Anonymous #36                :  Every single time when I'm about to hug someone extremely sexy, I hit the mirror.
+Anonymous #37                :  My software never has bugs. It just develops random features.
+Anonymous #38                :  LISP = Lots of Irritating Silly Parentheses.
+Anonymous #39                :  Perl, the only language that looks the same before and after RSA encryption.
+Anonymous #40                :  People ask me why, as an atheist, I still say: OH MY GOD.@It makes perfect sense: We say "Oh my God" when something is UNBELIEVABLE.
+Anonymous #41                :  1. Dig a hole.@2. Name it love.@3. Watch people falling in love.
+Anonymous #42                :  Don't think of yourself as an ugly person.@Think of yourself as a beautiful monkey.
+Anonymous #43                :  Afraid to die alone?@Become a bus driver.
+Anonymous #44                :  The first 5 days after the weekend are always the hardest.
+Anonymous #45                :  Rhinos are just fat unicorns.
+Anonymous #46                :  Sometimes when I'm writing Javascript I want to throw up my hands and say "this is bullshit!"@but I can never remember what "this" refers to.
+Anonymous #47                :  Kids are like farts.@You can only stand yours.
+Anonymous #48                :  If you were born in Israel, you'd probably be Jewish.@If you were born in Saudi Arabia, you'd probably be Muslim.@If you were born in India, you'd probably be Hindu.@But because you were born in North America, you're Christian.@Your faith is not inspired by some divine, constant truth.@It's simply geography.
+Anonymous #49                :  There are 2 types of people in this world:@People who say they pee in the shower, and the dirty fucking liars.
+Anonymous #50                :  London 2012 Olympic Games - A bunch of countries coming across the ocean to put their flags in Britain and try to get a bunch of gold... it's like history but opposite.
+Anonymous #51                :  I don't need a stable relationship,@I just need a stable Internet connection.
+Anonymous #52                :  What's the difference between religion and bullshit?@The bull.
+Anonymous #53                :  Today, as I was waiting for my girlfriend in the street, I saw a woman who looked a lot like her. I ran towards her, my arms in the air ready to give her a hug, only to realise it wasn't her. I then had to pass the woman, my arms in the air, still running. FML
+Anonymous #54                :  Decimal: 1 + 1 = 2@Binary:  1 + 1 = 10@Boolean: 1 + 1 = 1@JavaScript(hold my beer) : 1 + 1 = 11
+Anonymous #55                :  Don't be ashamed of who you are.@That's your parents job.
+Anonymous #56                :  Religion is like circumcision.@If you wait until someone is 21 to tell them about it they probably won't be interested.
+Anonymous #57                :  No, no, no, I'm not insulting you.@I'm describing you.
+Anonymous #58                :  I bought a dog once. Named him "Stay".@"Come here, Stay."@He's insane now.
+Anonymous #59                :  Law of Software Quality:@	errors = (more code)²@e = mc²
+Anonymous #60                :  Yesterday I named my Wifi network "hack me if you can"@Today when I woke up it was changed to "challenge accepted".
+Anonymous #61                :  Your mother is so fat,@the recursive function computing her mass causes a stack overflow.
+Anonymous #62                :  Oral sex makes my day, but anal sex makes my hole weak.
+Anonymous #63                :  I'm not saying I am Batman, I am just saying no one has ever seen me and Batman in the same room together.
+Anonymous #64                :  I took a taxi today.@The driver told me "I love my job, I own this car, I've got my own business, I'm my own boss, NO ONE tells me what to do!"@I said "TURN LEFT HERE".
+Anonymous #65                :  A man without God is like a fish without a bicycle.
+Anonymous #66                :  I hate how spiders just sit there on the walls and act like they pay rent!
+Anonymous #67                :  Whenever someone starts a sentence by saying "I'm not racist..."),they are about to say something super racist.
+Anonymous #68                :  I'm not laughing at you, I'm laughing with you, you're just not laughing.
+Anonymous #69                :  Women need a reason to have sex. Men just need a place.
+Anonymous #70                :  If abortion is murder then are condoms kidnapping?
+Anonymous #71                :  Men also have feelings.@For example, they can feel hungry.
+Anonymous #72                :  Project Manager:@A person who thinks 9 women can deliver a baby in 1 month.
+Anonymous #73                :  If you try and don't succeed, cheat. Repeat until caught. Then lie.
+Anonymous #74                :  Olympics is the stupidest thing.@People are so proud to be competing for their country.@They play their stupid song and raise some dumb flags.@I'd love to see no flags raised, no song, no mention of country.@Only people.
+Anonymous #75                :  I think therefore I am@not religious.
+Anonymous #76                :  Even if being gay were a choice, so what?@People choose to be assholes and they can get married.
+Anonymous #77                :  Governments are like diapers.@They should be changed often, and for the same reason.
+Anonymous #78                :  Mathématiquement, un cocu est un entier qui partage sa moitié avec un tiers.
+Anonymous #79                :  I'm a creationist.@I believe man created God.
+Anonymous #80                :  Let's eat kids.@Let's eat, kids.@Use a comma.@Save lives.
+Anonymous #81                :  A male engineering student was crossing a road one day when a frog called out to him and said, "If you kiss me, I'll turn into a beautiful princess." He bent over, picked up the frog, and put it in his pocket.@The frog spoke up again and said, "If you kiss me and turn me back into a beautiful princess, I will stay with you for one week." The engineering student took the frog out of his pocket, smiled at it; and returned it to his pocket.@The frog then cried out, "If you kiss me and turn me back into a princess, I'll stay with you and do ANYTHING you want." Again the boy took the frog out, smiled at it, and put it back into his pocket.@Finally, the frog asked, "What is the matter? I've told you I'm a beautiful princess, that I'll stay with you for a week and do anything you want. Why won't you kiss me?" The boy said, "Look I'm an engineer. I don't have time for a girlfriend, but a talking frog is cool."
+Anonymous #82                :  Gamers never die.@They just go offline.
+Anonymous #83                :  Copy from one, it's plagiarism.@Copy from two, it's research.
+Anonymous #84                :  Saying that Java is nice because it works on all OSes is like saying that anal sex is nice because it works on all genders.
+Anonymous #85                :  Race, religion, ethnic pride and nationalism etc... does nothing but teach you how to hate people that you've never met.
+Anonymous #86                :  Farts are just the ghosts of the things we eat.
+Anonymous #87                :  I promised I would never kill someone who had my blood.@But that mosquito made me break my word.
+Anonymous #88                :  Si un jour une chaise te dit que t'as un joli cul, tu trouveras ça bizarre mais c'est juste un compliment d'objet direct.
+Anonymous #89                :  The biggest step in any relationship isn't the first kiss.@It's the first fart.
+Anonymous #90                :  Clapping:@(verb)@Repeatedly high-fiving yourself for someone else's accomplishments.
+Anonymous #91                :  CV: ctrl-C, ctrl-V
+Anonymous #92                :  Mondays are not so bad.@It's your job that sucks.
+Anonymous #93                :  [In a job interview]@Interviewer: What's your greatest weakness?@Candidate: Honesty.@Interviewer: I don't think honesty is a weakness.@Candidate: I don't give a fuck what you think.
+Anonymous #94                :  Hey, I just met you@And this is crazy@Here's my number 127.0.0.1@Ping me maybe?
+Anonymous #95                :  What if the spider you killed in your house had spent his entire life thinking you were his roommate?@Ever think about that?@No. You only think about yourself.
+Anonymous #96                :  Code for 6 minutes, debug for 6 hours.
+Anonymous #97                :  Real Programmers don't comment their code.@If it was hard to write, it should be hard to read.
+Anonymous #98                :  My neighbours listen to good music.@Whether they like it or not.
+Anonymous #99                :  I've been using Vim for about 2 years now,@mostly because I can't figure out how to exit it.
+Anonymous #100               :  Dear YouTube,@I can deal with Ads.@I can deal with Buffer.@But when Ads buffer, I suffer.
+Anonymous #101               :  It's always sad when a man and his dick share only one brain...@and it turns out to be the dick's.
+Anonymous #102               :  If IE is brave enough to ask you to set it as your default browser,@don't tell me you dare not ask a girl out.
+Anonymous #103               :  NOT active
+Anonymous #104               :  The main idea of "Inception":@if you run a VM inside a VM inside a VM inside a VM inside a VM,@everything will be very slow.
+Anonymous #105               :  The best antivirus is common sense.
+Anonymous #106               :  When I die, I want to go peacefully like my grandfather did, in his sleep@- not screaming, like the passengers in his car.
+Anonymous #107               :  Remember, YOUR God is real.@All those other Gods are ridiculous, made-up nonsense.@But not yours.@Your God is real. Whichever one that is.
+Anonymous #108               :  #your-mom {@	width: 100000000000000000000px;@	float: nope;@}
+Anonymous #109               :  What's the best thing about UDP jokes?@I don't care if you get them.
+Anonymous #110               :  A programmer had a problem, so he decided to use threads.@Now 2 has. He problems
+Anonymous #111               :  I'VE NEVER BEEN VERY GOOD AT GEOGRAPHY.@BUT I CAN NAME AT LEAST ONE CITY IN FRANCE, WHICH IS NICE.
+Anonymous #112               :  #hulk {@    height: 200%;@    width: 200%;@    color: green;@}
+Anonymous #113               :  A colon can completely change the meaning of a sentence. For example:@- Jane ate her friend's sandwich.@- Jane ate her friend's colon.
+Anonymous #114               :  How can you face your problem if your problem is your face?
+Anonymous #115               :  YOLOLO:@You Only LOL Once.
+Anonymous #116               :  Every exit is an entrance to new experiences.
+Anonymous #117               :  A Native American was asked:@"Do you celebrate Columbus day?"@He replied:@"I don't know, do Jews celebrate Hitler's birthday?"
+Anonymous #118               :  I love necrophilia, but I can't stand the awkward silences.
+Anonymous #119               :  "I'm gonna Google that. BING that, Bing that, sorry."@- The CEO of Bing (many times per day still)
+Anonymous #120               :  GRAMMAR@The difference between knowing your shit and knowing you're shit.
+Anonymous #121               :  5 out of 6 people agree that Russian roulette is completely safe.
+Anonymous #122               :  Nerd?@I prefer the term "Intellectual badass".
+Anonymous #123               :  I know every digit of π@just not in the right order.
+Anonymous #124               :  You don't need religion to have morals.@If you can't determine right from wrong then you lack empathy, not religion.
+Anonymous #125               :  Pooping with the door opened is the meaning of true freedom.
+Anonymous #126               :  Social media does not make people stupid.@It just makes stupid people more visible.
+Anonymous #127               :  SELECT finger@FROM hand@WHERE id = 2 ;
+Anonymous #128               :  I love sleep.@Not because I'm lazy.@But because my dreams are better than my real life.
+Anonymous #129               :  What is the most used language in programming?@Profanity
+Anonymous #130               :  Common sense is so rare, it's kinda like a superpower...
+Anonymous #131               :  The best thing about a boolean is even if you are wrong, you are only off by a bit.
+Anonymous #132               :  Benchmarks don't lie, but liars do benchmarks.
+Anonymous #133               :  Multitasking: Screwing up several things at once.
+Anonymous #134               :  Linux is user friendly.@It's just picky about its friends.
+Anonymous #135               :  Theory is when you know something, but it doesn't work.@Practice is when something works, but you don't know why.@Programmers combine theory and practice: nothing works and they don't know why.
+Anonymous #136               :  Documentation is like sex:@when it's good, it's very, very good;@when it's bad, it's better than nothing.
+Anonymous #137               :  Home is where you poop most comfortably.
+Anonymous #138               :  Laptop Speakers problem: too quiet for music, too loud for porn.
+Anonymous #139               :  Chinese food to go: $16@Gas to go get the food: $2@Drove home just to realize they forgot one of your containers: RICELESS
+Anonymous #140               :  MS Windows is like religion to most people: they are born into it, accept it as default, never consider switching to another.
+Anonymous #141               :  To most religious people, the holy books are like a software license (EULA).@Nobody actually reads it. They just scroll to the bottom and click "I agree".
+Anonymous #142               :  You are nothing but a number of days,@whenever each day passes then part of you has gone.
+Anonymous #143               :  If 666 is evil, does that make 25.8069758011 the root of all evil?
+Anonymous #144               :  I don't want to sound like a badass but@I eject my USB drive without removing it safely.
+Anonymous #145               :  feet  (noun)@a device used for finding legos in the dark
+Anonymous #146               :  Buy a sheep@Name it "Relation"@Now you have a Relationsheep
+Anonymous #147               :  I dig, you dig, we dig,@he dig, she dig, they dig...@It's not a beautiful poem,@but it's very deep.
+Anonymous #148               :  # UNIX command line Russian roulette:@[ $[ $RANDOM % 6 ] == 0 ] && rm -rf /* || echo *Click*
+Anonymous #149               :  unzip, strip, top, less, touch, finger, grep, mount, fsck, more, yes, fsck, fsck, fsck, umount, sleep.@No, it's not porn. It's Unix.
+Anonymous #150               :  To understand what recursion is, you must first understand recursion.
+Anonymous #151               :  Q: What's the object-oriented way to become wealthy?@A: Inheritance.
+Anonymous #152               :  A SQL query goes into a bar, walks up to two tables and asks, "Can I join you?"
+Anonymous #153               :  You are not fat, you are just more visible.
+Anonymous #154               :  Minimalist@ (.   .)@  )   (@ (  Y  )@ASCII Art
+Anonymous #155               :  Parallel lines have so much in common...@It's a shame that they'll never meet.
+Anonymous #156               :  Declare variables, not war.@Execute programs, not people.
+Anonymous #157               :  I can't see an end. I have no control and I don't think there's any escape. I don't even have a home anymore.@I think it's time for a new keyboard.
+Anonymous #158               :  6.9@A little fun interrupted by a period.
+Anonymous #159               :  I love anal@-yzing all data before making assumptions.
+Anonymous #160               :  So my wife said@"take off my shirt".@I did as she said and take off her shirt.@Then she said,@"Take off my skirt."@I took off her skirt.@"Take off my shoes."@I took off her shoes.@"Now take off my bra and panties."@and so I took them off.@Then she looked at me and said@"I don't want to catch you wearing my things ever again."
+Anonymous #161               :  Do you know:@Spiders are the only web developers in the world that enjoy finding bugs.
+Anonymous #162               :  Psychologist: Lie down please.@8: No, thank you. If I do, this session will never reach the end.
+Anonymous #163               :  I love the way the earth rotates,@it really makes my day.
+Anonymous #164               :  Homonyms are a waist of thyme.
+Anonymous #165               :  What's the difference between a police officer and a bullet?@When a bullet kills someone else, you know it's been fired.
+Anonymous #166               :  What has 4 letters@sometimes 9 letters@but never has 5 letters
+Anonymous #167               :  The 'h' in "software development" stands for "happiness".
+Anonymous #168               :  Never let your computer know that you are in a hurry.@Computers can smell fear.@They slow down if they know that you are running out of time.
+Anonymous #169               :  JavaScript is not a language.@It's a programming jokes generator.
+Anonymous #170               :  A journalist asked Linus Torvalds what makes code bad.@He replied : No comment.
+Anonymous #171               :  If you spell "Nothing" backwards, it becomes "Gnihton" which also means nothing.
+Anonymous #172               :  Programming in Javascript is like looking both ways before you cross the street, and then getting hit by an airplane.
+Anonymous #173               :  Q: Why do we need a backend, why not just connect front end to database???@A: Yeah! And why do we eat and go to the bathroom while we can throw the food directly in the toilet? Because stuff needs to get processed. ;)
+Anonymous #174               :  Someday, once humans are extinct from covid-19. I hope whatever species rules Earth makes chicken nuggets in the shape of us, like we did for dinosaurs.
+Anonymous #175               :  Linkedin is basically a reversed Tinder.@Hot girls write to nerd guys and they didn't reply.
+Anonymous #176               :  A vegan said to me, "people who sell meat are gross!"@I said, "people who sell fruits and vegetables are grocer."
+Anonymous #177               :  Documentation is a love letter that you write to your future self.
+Anonymous #178               :  When I die, I hope it's early in the morning so I don't have to go to work that day for no reason.
+Anonymous #179               :  Workers play football@Managers play tennis@CEOs play golf@Higher the function, smaller the balls.
+Anonymous #180               :  Friends are just like trees.@They fall down when you hit them multiple times with an axe.
+Anonymous #181               :  I met a magical Genie. He gave me one wish.@I said: "I wish I could be you."@The Genue saud: "Weurd wush but U wull grant ut."
+Anonymous #182               :  printf("%s%s", "\\o/\n| |\n| |8=", "=D\n/ \\\n");
+Anonymous #183               :  Dear Optimist, Pessimist and Realist,@While you guys were busy arguing about@the glass of water, I drank it!@					Sincerely,@					The Opportunist
+Anonymous #184               :  Dance like nobody's watching.@Encrypt like everyone is.
+Anonymous #185               :  Me: "I'm 45 years old but I've got a 19 year-old young man's body"@Her: "Show me"@I opened the freezer to show her the body.@She screamed.@Me too.
+Anonymous #186               :  Everyone complains about the weather,@but no one wants to sacrifice a virgin to change it.
+Anonymous #187               :  If you are alone at home and feel lonely:@Turn off the lights, turn on the TV and watch a horror movie.@Then you will have feeling that there are someone hidden in the kitchen, in the toilet@and even under your bed.
+Anonymous #188               :  *Knock knock*@"Race condition"@"Who's there?"
+Anonymous #189               :  The two most difficult programming challenges are naming things, cache invalidation, and off-by-one errors.
+Anonymous #190               :  The greatest security vulnerability in any computer system is located between the keyboard and the chair.
+Anonymous #191               :  My biggest talent is always being able to tell what's in a wrapped present.@It's a gift.
+Anonymous #192               :  You can't force someone to love you.@But you can lock this person in the basement and wait for him/her to develop Stockholm syndrome.
+Anonymous #193               :  Do you know:@there are more airplanes in the oceans, than submarines in the sky?
+Anonymous #194               :  If you hold a Unix shell up to your ear,@you might just be able to hear the C.
+Anonymous #195               :  Why do programmers always mix up Halloween and Christmas?@Because Oct 31 == Dec 25
+Anonymous #196               :  What happened to the function that ran away?@It never returned.
+Anonymous #197               :  When I am tasked with sorting through a stack of résumés, I throw about half of them in the garbage.@I do not want unlucky people working in our company.
+Anonymous #198               :  The reason why we write SQL commands all in CAPITAL letters is because it stands for Screaming Query Language.
+Anonymous #199               :  Fly: Hey, bug on my back, are you a mite?@Mite: I mite be.@Fly: Stupidest pun I ever heard.@Mite: What do you expect? I just made it up on the fly.
+Anonymous #200               :  Me: What's the wifi password?@Bartender: You need to buy a drink first.@Me: OK, I'll have a coke.@Bartender: Is Pepsi OK?@Me: Sure. How much is that?@Bartender: $3.@Me: There you go. So what's the wifi password?@Bartender: You need to buy a drink first. No spaces, all lowercase.
+Anonymous #201               :  People always say software engineers are useless without computers.@It's not true.@Some of them are useless even with computers.
+Anonymous #202               :  The plural of regex is regrets.
+Anonymous #203               :  My gynecologist follows me on Instagram, I really do not know what else he want to see.
+Anonymous #204               :  The greatest security vulnerability in any computer system is located between the keyboard and the chair.
+Anonymous #205               :  Courage is knowing it might hurt, and doing it anyway.@Stupidity is the same.@And that's why life is hard.
+Anonymous #206               :  RegEx can save 30 minutes of your dev time with only 10 characters.@But you have to spend more than 40 minutes to figure out what these 10 characters need to be.
